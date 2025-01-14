@@ -1,0 +1,35 @@
+
+.body_of_website {
+    background-color: #858585;
+    margin: 0;
+    color: rgb(202, 202, 202);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.body_of_website section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.brown{
+    background-color: #552c47;
+    height: 300px;
+    text-align: center;
+    padding: 40px;
+}
+
+.colour2{
+    background-color: #12394d;
+    height: 300px;
+    text-align: center;
+    padding: 40px;
+}
+
+.colour3{
+    background-color: #ea5454;
+    height: 300px;
+    text-align: center;
+    padding: 40px;
+}
