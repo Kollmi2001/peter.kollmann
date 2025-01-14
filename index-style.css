@@ -21,7 +21,7 @@ h1 {
 
 .inner_header {
     height: 100%;
-    width: 1000px;
+    width: 90%;
     display: block;
     background-color: #101010;
     margin: 0 auto;
@@ -40,6 +40,7 @@ h1 {
     vertical-align: middle;
     font-size: 32px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
 }
 
 .navigation_menu{
@@ -59,8 +60,4 @@ h1 {
     vertical-align: middle;
     height: 100%;
     color: white;
-}
-
-body {
-    background-color: grey;
 }
